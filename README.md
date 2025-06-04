@@ -16,3 +16,4 @@
 
 #OUTPUT
 
+[SEO .docx](https://github.com/user-attachments/files/20586641/SEO.docx)
